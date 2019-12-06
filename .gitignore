@@ -2,11 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.swp
+*.pylintrc
 
 # C extensions
 *.so
 
 # Distribution / packaging
+.vscode
 .Python
 build/
 develop-eggs/
