@@ -26,7 +26,6 @@ void("data A")
 print(A)
 
 print("data:", A[1:1])
-collections.Counter(A)
 print("kieu du lieu", A.dtype)  # kieu du lieu
 print("so hang , so cot ", A.shape)  # so hang va cot
 print("chuyen vi matran", A.T)  # chuyen vi ma tran
