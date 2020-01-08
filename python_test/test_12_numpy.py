@@ -2,6 +2,7 @@ from builtins import len
 import matplotlib.pyplot as plt
 import numpy as np
 import collections
+import time
 
 
 def void(name):
@@ -36,3 +37,20 @@ print("ravel", A.ravel())
 void("re_shape")
 re_A = A.reshape(1, 12)
 print(re_A)
+
+
+void("")
+
+
+def fib(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
+
+
+meno = {0: 5, 6: 9}
+
+print(meno)
