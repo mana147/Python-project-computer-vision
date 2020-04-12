@@ -1,0 +1,8 @@
+Online Real time Multiple Spatiotemporal Action Localisation and Prediction
+
+real time action detection in video  surveillance using sub-action descriptor with multi-CNN
+------------------------------------------------------------------------------------------
+
+OpenPose (  HandTracking )
+
+TensorFlow ()
