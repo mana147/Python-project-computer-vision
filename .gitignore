@@ -9,6 +9,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+VENV
 .ipynb_checkpoints
 .vscode
 .Python
