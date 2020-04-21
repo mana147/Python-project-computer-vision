@@ -1,3 +1,3 @@
 @echo off 
-REM .\VENV\Scripts\activate
-.\.venv\Scripts\activate
+.\VENV\Scripts\activate
+REM .\.venv\Scripts\activate

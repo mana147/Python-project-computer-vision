@@ -24,3 +24,8 @@ tìm hiểu về quy trình công việc ( Specify-Compile-Fit
 
 # Human Pose Estimation and Action Recognition
 <!--  -->
+Dự án gồm 2 phần chính :
+1. Human Pose Estimation: tested different modes on both (cả hai) single-person and multi-person scenario (kịch bản )
+    - [OpenPose] 
+    - [AlphaPose]
+2. Skeleton-Based Action Recognition
